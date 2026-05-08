@@ -30,7 +30,7 @@ def frecuencia_relativa_evento(muestra):
 
 
 probabilidad_teorica = 4/7
-valores_monedas = [10, 15, 20, 25, 30]
+valores_monedas = [15, 20, 25]
 valores_n = [10**3, 10**4, 10**5, 10**6]
 
 print("Probabilidad teórica:", probabilidad_teorica)
